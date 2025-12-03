@@ -1,6 +1,6 @@
 <?php
 
-namespace LumenSolucoes\FilamentAsaas;
+namespace lumensolucoes\FilamentAsaas;
 
 use Illuminate\Support\ServiceProvider;
 use lumensolucoes\FilamentAsaas\AsaasClient;
