@@ -1,0 +1,25 @@
+{
+    "name": "lumensolucoes/filament-asaas",
+    "description": "Filament plugin for integrating Asaas (payments) with multi-tenancy support",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "lumensolucoes\\FilamentAsaas\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "filament/filament": "^3.0 || ^2.0",
+        "illuminate/support": "^9.0|^10.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "lumensolucoes\\FilamentAsaas\\AsaasServiceProvider"
+            ]
+        }
+    }
+}
