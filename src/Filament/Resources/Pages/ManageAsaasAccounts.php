@@ -1,6 +1,6 @@
 <?php
 
-namespace Lumensolucoes\FilamentAsaas\Filament\Resources\Pages;
+namespace LumenSolucoes\FilamentAsaas\Filament\Resources\Pages;
 
 use Filament\Resources\Pages\ListRecords;
 use lumensolucoes\FilamentAsaas\Filament\Resources\AsaasSettingsResource;

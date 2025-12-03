@@ -1,6 +1,6 @@
 <?php
 
-namespace Lumensolucoes\FilamentAsaas;
+namespace LumenSolucoes\FilamentAsaas;
 
 use GuzzleHttp\Client as GuzzleClient;
 use lumensolucoes\FilamentAsaas\Models\AsaasAccount;

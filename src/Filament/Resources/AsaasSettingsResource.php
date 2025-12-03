@@ -1,6 +1,6 @@
 <?php
 
-namespace Lumensolucoes\FilamentAsaas\Filament\Resources;
+namespace LumenSolucoes\FilamentAsaas\Filament\Resources;
 
 use Filament\Resources\Resource;
 use Filament\Resources\Pages\Page;
