@@ -21,8 +21,7 @@
     ],
     "type": "library",
     "require": {
-        "php": ">=8.2",
-        "guzzlehttp/guzzle": "^7.0",
+        "php": "^8.2",
         "filament/filament": "^4.0",
         "illuminate/support": "^11.0",
         "illuminate/contracts": "^11.0"
@@ -60,9 +59,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-main": "0.1.x-dev"
-        },
         "laravel": {
             "providers": [
                 "lumensolucoes\\filamentasaas\\AsaasServiceProvider"
