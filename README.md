@@ -7,7 +7,7 @@ Quick install
 1. Require package via composer (from path):
 
 ```bash
-composer require lumen/filament-asaas --prefer-dist
+composer require lumensolucoes/filament-asaas --prefer-dist
 ```
 
 2. Publish config and run migrations:
