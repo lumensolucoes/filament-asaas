@@ -1,9 +1,9 @@
 <?php
 
-namespace lumensolucoesFilamentAsaas\Filament\Resources\Pages;
+namespace lumensolucoes\FilamentAsaas\Filament\Resources\Pages;
 
 use Filament\Resources\Pages\ListRecords;
-use lumensolucoesFilamentAsaas\Filament\Resources\AsaasSettingsResource;
+use lumensolucoes\FilamentAsaas\Filament\Resources\AsaasSettingsResource;
 
 class ManageAsaasAccounts extends ListRecords
 {

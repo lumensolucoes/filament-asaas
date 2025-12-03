@@ -1,13 +1,13 @@
 <?php
 
-namespace lumensolucoesFilamentAsaas\Filament\Resources;
+namespace lumensolucoes\FilamentAsaas\Filament\Resources;
 
 use Filament\Resources\Resource;
 use Filament\Resources\Pages\Page;
 use Filament\Forms\Components\TextInput;
 use Filament\Forms\Components\Select;
 use Filament\Forms\Components\Toggle;
-use lumensolucoesFilamentAsaas\Models\AsaasAccount;
+use lumensolucoes\FilamentAsaas\Models\AsaasAccount;
 
 class AsaasSettingsResource extends Resource
 {
