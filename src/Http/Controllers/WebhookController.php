@@ -1,6 +1,6 @@
 <?php
 
-namespace lumensolucoes\FilamentAsaas\Http\Controllers;
+namespace Lumensolucoes\FilamentAsaas\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;

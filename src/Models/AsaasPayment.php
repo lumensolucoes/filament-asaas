@@ -1,6 +1,6 @@
 <?php
 
-namespace lumensolucoes\FilamentAsaas\Models;
+namespace Lumensolucoes\FilamentAsaas\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
