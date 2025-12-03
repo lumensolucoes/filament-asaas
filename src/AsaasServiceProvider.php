@@ -1,9 +1,9 @@
 <?php
 
-namespace lumensolucoes\FilamentAsaas;
+namespace lumensolucoes\filamentasaas;
 
 use Illuminate\Support\ServiceProvider;
-use lumensolucoes\FilamentAsaas\AsaasClient;
+use lumensolucoes\filamentasaas\AsaasClient;
 
 class AsaasServiceProvider extends ServiceProvider
 {

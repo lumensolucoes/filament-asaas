@@ -13,7 +13,7 @@ composer require lumensolucoes/filament-asaas --prefer-dist
 2. Publish config and run migrations:
 
 ```bash
-php artisan vendor:publish --provider="lumensolucoes\\FilamentAsaas\\AsaasServiceProvider" --tag=config
+php artisan vendor:publish --provider="lumensolucoes\\filamentasaas\\AsaasServiceProvider" --tag=config
 php artisan migrate
 ```
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace lumensolucoes\FilamentAsaas\Filament\Resources;
+namespace lumensolucoes\filamentasaas\Filament\Resources;
 
 use Filament\Resources\Resource;
-use lumensolucoes\FilamentAsaas\Models\AsaasPayment;
+use lumensolucoes\filamentasaas\Models\AsaasPayment;
 
 class AsaasPaymentResource extends Resource
 {

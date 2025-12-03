@@ -1,6 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use lumensolucoes\FilamentAsaas\Http\Controllers\WebhookController;
+use lumensolucoes\filamentasaas\Http\Controllers\WebhookController;
 
 Route::post('/asaas/webhook', [WebhookController::class, 'handle']);

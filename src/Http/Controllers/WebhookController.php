@@ -1,10 +1,10 @@
 <?php
 
-namespace lumensolucoes\FilamentAsaas\Http\Controllers;
+namespace lumensolucoes\filamentasaas\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
-use lumensolucoes\FilamentAsaas\Models\AsaasPayment;
+use lumensolucoes\filamentasaas\Models\AsaasPayment;
 
 class WebhookController extends Controller
 {

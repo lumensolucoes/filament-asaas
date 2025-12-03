@@ -38,12 +38,12 @@
     },
     "autoload": {
         "psr-4": {
-            "lumensolucoes\\FilamentAsaas\\": "src/"
+            "lumensolucoes\\filamentasaas\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "lumensolucoes\\FilamentAsaas\\Tests\\": "tests/"
+            "lumensolucoes\\filamentasaas\\Tests\\": "tests/"
         }
     },
     "scripts": {
@@ -65,10 +65,10 @@
         },
         "laravel": {
             "providers": [
-                "lumensolucoes\\FilamentAsaas\\AsaasServiceProvider"
+                "lumensolucoes\\filamentasaas\\AsaasServiceProvider"
             ]
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": false
+    "prefer-stable": true
 }
